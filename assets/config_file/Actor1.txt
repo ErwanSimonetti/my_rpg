@@ -1,0 +1,5 @@
+assets/img/Actor1.png
+up{0;145;47;47}move{48,0}
+right{0;96;47;47}move{48,0}
+down{0;0;47;47}move{48,0}
+left{0;48;47;47}move{48,0}

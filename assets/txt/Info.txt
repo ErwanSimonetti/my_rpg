@@ -1,0 +1,6 @@
+Press Z, Q, S and D to move forward, to the left, backward
+and to the right.
+Press E to interact with objects or talk to someone.
+Press ESC to display the pause menu.
+Press I to display the inventory menu.
+Press ENTER to skip or accept when you are talking to someone.
